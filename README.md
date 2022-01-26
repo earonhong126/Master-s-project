@@ -1,14 +1,14 @@
 # HONG ZHUYANG's master degree project
 ## ForPredictフォルダ
 ### UseGoogleTrendsフォルダ
-- 7日前から14日前のGoogle Trendと感染人数のcsvが保存される
+- 7日前から14日前のGoogle Trendと感染人数のcsvが保存された
 - 実行の場合， Python.ipynbファイルに入れて，名前を「Fortraining.csv」に変更
 ### withoutGoogleTrendsフォルダ
-- 7日前から14日前の感染人数とターゲットの感染人数のcsvが保存される
+- 7日前から14日前の感染人数とターゲットの感染人数のcsvが保存された
 - 実行の場合， Python.ipynbファイルに入れて，名前を「Fortraining.csv」に変更
 ## Project.ipynb
 - 一年半以上の感染人数予測のpythonファイル
-- XGBoost,LSTM,Prophetとこの三つのモデルの組み合わせモデルが実装される
+- XGBoost,LSTM,Prophetとこの三つのモデルの組み合わせモデルが実装された
 - Google Colaboratoryを使用して作成した
 ## all_period_analyse（一年半以上のデータ）
 ### KXX_X.csv
