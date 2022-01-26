@@ -8,6 +8,7 @@
 - 実行の場合， Python.ipynbファイルに入れて，名前を「Fortraining.csv」に変更
 ## Project.ipynb
 - 一年半以上の感染人数予測のpythonファイル
+- XGBoost,LSTM,Prophetとこの三つのモデルの組み合わせモデルが実装される
 - Google Colaboratoryを使用して作成した
 ## all_period_analyse（一年半以上のデータ）
 ### KXX_X.csv
@@ -31,3 +32,5 @@
 感染人数と各検索用語の時系列プロット
 ### script.R
 相関分析，Lag and Lead相関分析用Rファイル．
+## 内部仕様書.docx
+RとPythonで使用した主な関数の説明
