@@ -1,4 +1,4 @@
-# HONG ZHUYANG's master degree project
+# HONG ZHUYANGの修論プログラム
 ## ForPredictフォルダ
 ### UseGoogleTrendsフォルダ
 - 7日前から14日前のGoogle Trendと感染人数のcsvが保存された
